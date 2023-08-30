@@ -9,11 +9,11 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'step 1: Navigate to Page_category_chekhly-na-ipad'
+'step 1: Navigate to Page_checkout_payment'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/category/chekhly-na-ipad')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/checkout/payment')
 
-'step 2: Add visual checkpoint at Page_category_chekhly-na-ipad'
+'step 2: Add visual checkpoint at Page_checkout_payment'
 
 WebUI.takeFullPageScreenshotAsCheckpoint('TestCase-00009_visual_checkpoint')
 

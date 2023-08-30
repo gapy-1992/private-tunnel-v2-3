@@ -1,0 +1,8 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_product_chekhol-chernyi",
+        "step 2: At Page_product_chekhol-chernyi click on label_object",
+        "step 3: At Page_product_chekhol-chernyi click on button_object",
+        "step 4: Add visual checkpoint at Page_product_chekhol-chernyi"
+    ]
+}
